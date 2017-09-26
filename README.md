@@ -1,5 +1,5 @@
 # brewtools
-Mac HomeBrew tools for list package dependencies, reverse search, tree auto list and safely remove formulae and its dependencies
+Mac HomeBrew tools for list **installed** packages and its dependencies, reverse search, tree auto list and safely remove formulae/dependencies
 
 ### Installation
 
@@ -16,7 +16,7 @@ chmod +x brew-deps-*.sh
 
 ### Usage
 
-`./brew-deps-autolist.sh` List all the formulae tree
+`./brew-deps-autolist.sh` List installed formulae tree
 
 `./brew-deps-remove.sh` Remove given formulae and its dependencies
 
