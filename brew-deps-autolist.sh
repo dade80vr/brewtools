@@ -1,4 +1,3 @@
-
 #!/bin/bash
 brew list | while read cask;
 do echo -n "+++" $cask "+++ ";
