@@ -7,7 +7,7 @@ Mac HomeBrew tools for list **installed** packages and its dependencies, reverse
 git clone https://github.com/dade80vr/brewtools.git
 ```
 
-### Make all shell files executable
+### Check if all shell files are executable
 
 ```shell
 cd brewtools
